@@ -6,7 +6,7 @@ The IMDb Movie Reviews dataset is available at this link: https://raw.githubuser
 Results:
 **As it is a balanced dataset and also a classification task, we can use accuracy as metric for evaluation of performance of models on it. **
 
-# MultinomialNaive Bayes has performed the best for this taskon this IMDB dataset of 50000 rows out of all the above models trained above and evaluated based on accuracy as measure of performance. 
+MultinomialNaive Bayes has performed the best for this taskon this IMDB dataset of 50000 rows out of all the above models trained above and evaluated based on accuracy as measure of performance. 
 
 The order of their performances in descendeing order is  as follows: 
 
