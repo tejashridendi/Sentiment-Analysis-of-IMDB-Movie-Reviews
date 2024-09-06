@@ -11,7 +11,7 @@ Results:
 
 MultinomialNaive Bayes has performed the best for this taskon this IMDB dataset of 50000 rows out of all the above models trained above and evaluated based on accuracy as measure of performance. 
 
-The order of their performances in descendeing order is  as follows: 
+The order of their performances in descending order is  as follows: 
 
 MultinomialNaive Bayes: 74.25% 
 
